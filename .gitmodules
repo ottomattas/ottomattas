@@ -1,0 +1,3 @@
+[submodule "Resources/devicon"]
+	path = Resources/devicon
+	url = https://github.com/ottomattas/devicon.git
