@@ -1,4 +1,61 @@
-### Hi there, I am Otto Mättas [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/ottomattas) ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# where humanity meets technology
+![Random Header Image from Unsplash API](https://source.unsplash.com/1000x200/?humanity,technology,gaming,ai)
+### I have taken lead with hundreds and developed solutions for millions. Now, as a science-backed AI engineer, I am focusing on closing the gap between humanity and technology.
+
+- [Work Experience](#work-experience)
+- [Philosophy](#philosophy)
+
+
+- [Top Languages Card](#top-languages-card)
+- [Wakatime Week Stats](#wakatime-week-stats)
+- [Themes](#themes)
+- [Customization](#customization)
+  - [Common Options](#common-options)
+  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
+  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
+  - [Language Card Exclusive Options](#language-card-exclusive-options)
+  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
+- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+
+
+
+## Work Experience
+2021 - Current 
+  - [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
+  - Working closely with the Open Science community to design and deliver relevant features for researchers across the globe.
+  - Built a RIS file integration implementation and started the global movement to clarify the citation file formatting standards.
+  - Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
+
+2020 - 2021
+  - [toot.ai](https://toot-ai.github.io/toot.ai/), Founder & Developer
+  - Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
+  - Developed a knowledge representation and reasoning platform using mostly Neo4j, Python and NodeJS.
+  - Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
+
+2020 - 2021
+  - #fuelish, Founder & Developer & Designer
+  - As a solo enterpreneur, coming up with apparel designs to reach the global market using Photoshop.
+  - Built an automated hands-off Shopify platform for generating passive income using Liquid.
+  - Had fun with challenging people to be courageous.
+
+2017 - 2020
+  - [Sentia](https://sentia.com), Innovator & Cloud Engineer
+  - Worked closely together with many different clients to bring them to the cloud.
+  - Designed and developed highly available scalable solutions, mostly on AWS.
+  - Encouraged company-wide liberation and started movements for innovating internal processes and technology.
+
+2015 - 2017
+  - [Parliament of Estonia](https://www.riigikogu.ee/en/), Chief Specialist & Developer
+  - Worked together with the public and many governmental organisations to define the standard for Open Data APIs in Estonia.
+  - Developed many tools and solutions for bringing Open Government initiatives forward within the Parliament of Estonia.
+  - Focused on innovating internal processes using ITIL.
+
+2013 - 2015
+  - [Ekspress Grupp](https://www.egrupp.ee/en/), System Administrator
+  - Focused a lot on maintance and upkeep 
+
+## Philosophy
+Hi there, I am Otto Mättas [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/ottomattas) ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 As an avid Artificial Intelligence researcher at [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), I am investigating how to digitalize the thing we hold dearest - our humanity. Sounds scary? Good, because I am your best bet for preventing Skynet from taking over.
 
@@ -23,7 +80,20 @@ And that is when the fun starts. Have you ever dreamed of having a personal assi
 
 🧰 Toolbox
 
+unreal engine
+unity
+aws
+azure
+ansible
+unix
+neo4j
+mysql
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
+pytorch
+tensorflow
+html
+css
+photoshop
 <!--- <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/>
@@ -33,4 +103,6 @@ And that is when the fun starts. Have you ever dreamed of having a personal assi
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> --->
 
 ---
+[![Otto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottomattas&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottomattas&theme=dark&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
