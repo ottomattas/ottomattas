@@ -1,108 +1,138 @@
 # where humanity meets technology
 ![Random Header Image from Unsplash API](https://source.unsplash.com/1000x200/?humanity,technology,gaming,ai)
-### I have taken lead with hundreds and developed solutions for millions. Now, as a science-backed AI engineer, I am focusing on closing the gap between humanity and technology.
+# I have taken lead with hundreds and developed solutions for millions. Now, as a science-backed AI engineer, I am focusing on closing the gap between humanity and technology.
 
-- [Work Experience](#work-experience)
+- [What do I want?](#what-do-i-want)
 - [Philosophy](#philosophy)
+  - [About My Business](#about-my-business)
+  - [About the Future](#about-the-future)
+- [Experience](#experience)
+- [Education](#education)
+- [Toolbox](#toolbox)
+- [GitHub Stats](#github-stats)
 
+---
 
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
-
-
-
-## Work Experience
-2021 - Current 
-  - [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
-  - Working closely with the Open Science community to design and deliver relevant features for researchers across the globe.
-  - Built a RIS file integration implementation and started the global movement to clarify the citation file formatting standards.
-  - Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
-
-2020 - 2021
-  - [toot.ai](https://toot-ai.github.io/toot.ai/), Founder & Developer
-  - Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
-  - Developed a knowledge representation and reasoning platform using mostly Neo4j, Python and NodeJS.
-  - Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
-
-2020 - 2021
-  - #fuelish, Founder & Developer & Designer
-  - As a solo enterpreneur, coming up with apparel designs to reach the global market using Photoshop.
-  - Built an automated hands-off Shopify platform for generating passive income using Liquid.
-  - Had fun with challenging people to be courageous.
-
-2017 - 2020
-  - [Sentia](https://sentia.com), Innovator & Cloud Engineer
-  - Worked closely together with many different clients to bring them to the cloud.
-  - Designed and developed highly available scalable solutions, mostly on AWS.
-  - Encouraged company-wide liberation and started movements for innovating internal processes and technology.
-
-2015 - 2017
-  - [Parliament of Estonia](https://www.riigikogu.ee/en/), Chief Specialist & Developer
-  - Worked together with the public and many governmental organisations to define the standard for Open Data APIs in Estonia.
-  - Developed many tools and solutions for bringing Open Government initiatives forward within the Parliament of Estonia.
-  - Focused on innovating internal processes using ITIL.
-
-2013 - 2015
-  - [Ekspress Grupp](https://www.egrupp.ee/en/), System Administrator
-  - Focused a lot on maintance and upkeep 
+## What do I want?
+- I want to create.
+- I want to develop and play games.
+- I want to develop intelligent tools that will give us more freedom.
+- I want to keep growing and learning while encouraging others to do the same.
+- I want to contribute to making the world a more open and enjoyable place for all people, now and in the future.
 
 ## Philosophy
-Hi there, I am Otto Mättas [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/ottomattas) ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-As an avid Artificial Intelligence researcher at [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), I am investigating how to digitalize the thing we hold dearest - our humanity. Sounds scary? Good, because I am your best bet for preventing Skynet from taking over.
+### About My Business
+Notice, think, reinvent. Overcoming fear becomes possible through facing it, in whatever the situation. I believe we all should start by taking notes. After understanding the often simple core of our challenge, we can seek out perspective for fresh ideas. Sometimes, following a new approach might be necessary to continue on our path towards greatness.
 
-On a more serious note, though. I think about thinking and how we express ourselves. For a machine, the problem can be roughly separated into two:
-- gaining new knowledge about the ever-changing world around it;
-- and using that knowledge under the right circumstances to take action in that ever-changing world.
-###### _Important note - I am working on real-time and real-world technical applications!_
+Here, have some magical courage to take your first step! ╰(｡^◇^｡)⊃—☆ﾟ.*･｡ﾟ
 
----
+### About the Future
+As an avid Artificial Intelligence researcher at [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), I am investigating how to digitalize the thing we hold dearest - our humanity. Sounds scary? Good that you are here reading this. I am your best bet for preventing Skynet from taking over.
 
-Standing on the shoulders of giants, I have already figured out and built a way for the machine to share its opinion and take action based on its knowledge. Whoop, so that's one of the tasks done!
+On a more serious note, though. I think about thinking and how we express ourselves as humans. Furthermore, I ponder how a machine would express itself so that it becomes familiar to us. Let's separate the problem into roughly two:
+- gaining new knowledge about the ever-changing world around it in real-time;
+- and using that knowledge under the right circumstances to take action in that ever-changing world in real-time.
 
-Understanding what we do not understand yet is not that simple. Think of the question - what is love? After a heartbreak or two, you might have an idea. Now try explaining this idea to a banana.*
-Even Haddaway has been asking [the very question](https://www.youtube.com/watch?v=HEXWRTEbj1I) since 1994. The amount of recent cultural references and cover music indicates that the question is still very relevant. I am betting we can come up with an answer soon.
+Standing on the shoulders of giants, I have figured out and built a way for the machine to share its opinion and take action based on its knowledge. Whoop, so that's one of the tasks done already!
 
-And that is when the fun starts. Have you ever dreamed of having a personal assistant like [Samanta from Her](https://www.charactour.com/hub/characters/view/Samantha.Her) or [J.A.R.V.I.S from Ironman](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)? Yeah, it could be something like that but real.
+Understanding what we do not understand yet is not that simple. Think of the question - what is love? Even Haddaway has been asking [the very question](https://www.youtube.com/watch?v=HEXWRTEbj1I) since 1994. The amount of recent cultural references and cover music indicates that the question is still relevant. After a heartbreak or two, you might have a vague idea about love. Now try explaining this idea to a banana.*
+
+I am betting we can come up with a clear answer soon. Not only will we be able to describe love but also other most profound topics about being human. And that is when the fun starts. Have you ever dreamed of having a personal assistant like [Samanta from Her](https://www.charactour.com/hub/characters/view/Samantha.Her) or [J.A.R.V.I.S from Ironman](https://en.wikipedia.org/wiki/J.A.R.V.I.S.) who understands you for you? Yeah, it could be something like that, only for real.
 
 
-###### _\* At the time of writing, the author was not aware of bananas being able to reciprocate love. He hopes that there is or soon will be research to prove the feelings can indeed be mutual._
-
----
-
-🧰 Toolbox
-
-unreal engine
-unity
-aws
-azure
-ansible
-unix
-neo4j
-mysql
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
-pytorch
-tensorflow
-html
-css
-photoshop
-<!--- <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Azure Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> --->
+###### _\* At the time of writing, the author did not know about bananas' ability to reciprocate love._
 
 ---
-[![Otto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottomattas&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottomattas&theme=dark&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+## Experience
+
+2021 - Current 
+- [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
+- Worked closely with the Open Science community to design and deliver relevant software for researchers across the globe.
+- Built a RIS file integration implementation and started the global movement to clarify the citation file formatting standards.
+- Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
+
+2020 - Current
+- [toot.ai](https://toot-ai.github.io/toot.ai/), Founder & Developer
+- Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
+- Developed a knowledge representation and reasoning platform using mostly OWL, Neo4j, Python and NodeJS.
+- Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
+
+2020 - 2021
+- #fuelish, Founder & Developer & Designer
+- As a solo enterpreneur, came up with apparel designs to reach the global market using Photoshop.
+- Built an automated hands-off Shopify platform for generating passive income using Liquid.
+- Had fun with challenging people to be courageous.
+
+2017 - 2020
+- [Sentia](https://sentia.com), Innovator & Cloud Engineer
+- Worked closely together with many different clients to bring their classical infrastructure to the cloud.
+- Designed and developed highly available scalable solutions, mostly AWS and on-prem.
+- Encouraged company-wide liberation and started movements for innovating internal processes and technology.
+
+2015 - 2017
+- [Parliament of Estonia](https://www.riigikogu.ee/en/), Chief Specialist & Developer
+- Worked together with the public and many governmental organisations to define the standard for Open Data APIs in Estonia.
+- Developed many tools and solutions for bringing Open Government initiatives forward within the Parliament of Estonia.
+- Focused on innovating internal processes using ITIL.
+
+2013 - 2017
+- Mousiq, Founder & Developer & Musician
+- Built a team and designed a new way of doing business in the music industry.
+- Developed a social platform to enable artists in taking back control over their creation.
+- Learned my first lessons from the business side of doing things and how investments work.
+
+2013 - 2015
+- [Ekspress Grupp](https://www.egrupp.ee/en/), Site Reliability Engineer
+- Focused on the maintance and upkeep of web services for the largest media corporation in the Baltics.
+- I did CCNA level networking for a combination of hardware from HP and Cisco.
+- As the person with the driver's license, I got to take the lead in the data centers.
+
+###### _If you want to know what came before, I invite you to check my [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ottomattas/) profile and [contact me](mailto:otto.mattas@eesti.ee) directly. I would be honored to share my story with you... I was even a professional musician at one point!_
+
+## Education
+
+2019 - 2022
+- [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), Artificial Intelligence, MSc
+- Worked with many different people on many different projects using many different tools. For example, we won the third prize in the first ever [AI Eurovision Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html) in 2020.
+- Contritbuted to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
+- Contributed to improving the AI program for our students as a member of the [AI Education Advisory Committee (OAC AI)](https://students.uu.nl/en/science/artificial-intelligence/contact/education-advisory-committee).
+
+2010 - 2017
+- [Estonian IT College](https://taltech.ee/en/itcollege), IT Systems Administration, Diploma of Professional Higher Education
+- Worked on my technical fundamentals from all perspectives - from data to development to processes, even governance.
+- Lifted many spirits by playing bass guitar in the school band.
+- Shared my joy for technology with the youth of Estonia. I travelled the country, giving lectures on many topics to students of all ages.
+
+## Toolbox
+
+<img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://antonchirkov.ru/wp-content/uploads/2019/03/kisspng-ansible-devops-toolchain-software-deployment-trian-logo-beta-5b61fd61e474d6.9474899115331485139358-e1552844693154.png" alt="Ansible Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="Unix Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="Pytorch Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Devicon Logo" width="50" height="50"/>
+
+###### _How "über senior expert" am I with these? I am not. That's not my goal, see [above](#what-do-i-want). Instead, I am showing you a selection of tools I have previously enjoyed using to solve a problem or many. [Contact me](mailto:otto.mattas@eesti.ee) directly to have a chat and learn more about the projects I've done._
+---
+
+## Github Stats
+[![Otto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ottomattas&theme=dark&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottomattas&theme=dark&layout=compact&hide=html,css&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
