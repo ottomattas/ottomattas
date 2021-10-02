@@ -107,27 +107,27 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 ## Toolbox
 
-<img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="https://antonchirkov.ru/wp-content/uploads/2019/03/kisspng-ansible-devops-toolchain-software-deployment-trian-logo-beta-5b61fd61e474d6.9474899115331485139358-e1552844693154.png" alt="Ansible Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="Unix Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unix/unix-original.svg" alt="Unix Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/mysql/mysql-plain.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="Pytorch Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3 Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Devicon Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/css3/css3-plain.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/devicon/devicon-original.svg" alt="Devicon Logo" width="50" height="50"/>
 
 ###### _How "über senior expert" am I with these? I am not. That's not my goal, see [above](#what-do-i-want). Instead, I am showing you a selection of tools I have previously enjoyed using to solve a problem or many. [Contact me](mailto:otto.mattas@eesti.ee) directly to have a chat and learn more about the projects I've done._
 ---
