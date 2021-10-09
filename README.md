@@ -53,7 +53,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Built a RIS file integration implementation and started the global movement to clarify the citation file formatting standards.
 - Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
 
-2020 - Current
+2020 - 2021
 - [toot.ai](https://toot-ai.github.io/toot.ai/), Founder & Developer
 - Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
 - Developed a knowledge representation and reasoning platform using mostly OWL, Neo4j, Python and NodeJS.
