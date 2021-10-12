@@ -111,6 +111,8 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Lifted many spirits by playing bass guitar in the school band.
 - Shared my joy for technology with the youth of Estonia. I travelled the country, giving lectures on many topics to students of all ages.
 
+###### _I hold or have held certifications in many different fields. If you want to know more about my certifications, I invite you to check my [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ottomattas/) profile and [contact me](mailto:otto.mattas@eesti.ee) directly._
+
 ## Toolbox
 
 <img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
