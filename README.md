@@ -46,6 +46,12 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 ---
 
 ## Experience
+![Estonian (native)](https://img.shields.io/static/v1?label=language&message=Estonian%20%28native%29&color=blue)
+![English (C2)](https://img.shields.io/static/v1?label=language&message=English%20%28C1%29&color=red)
+![Dutch (B1)](https://img.shields.io/static/v1?label=language&message=Dutch%20%28B1%29&color=orange)
+![Russian (A2)](https://img.shields.io/static/v1?label=language&message=Russian%20%28A2%29&color=yellow)
+![German (A2)](https://img.shields.io/static/v1?label=language&message=German%20%28A2%29&color=yellowgreen)
+![Latin (A1)](https://img.shields.io/static/v1?label=language&message=Latin%20%28A1%29&color=green)
 
 2021 - Current 
 - [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
