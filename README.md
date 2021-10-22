@@ -15,10 +15,8 @@
 
 ## What do I want?
 - I want to create.
-- I want to develop and play games.
-- I want to develop intelligent tools that will give us more freedom.
+- I want to develop intelligent technology.
 - I want to keep growing and learning while encouraging others to do the same.
-- I want to contribute to making the world a more open and enjoyable place for all people, now and in the future.
 
 ## Philosophy
 
