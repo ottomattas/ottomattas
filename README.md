@@ -113,7 +113,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 ## Toolbox
 
-<img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
+<img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-6.jpg" alt="Unreal Engine Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/ottomattas/devicon/master/icons/unity/unity-original-gray.svg" alt="Unity Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
@@ -121,17 +121,17 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unix/unix-original.svg" alt="Unix Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/ottomattas/devicon/master/icons/neo4j/neo4j-original-gray.svg" alt="Neo4j Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/mysql/mysql-plain.svg" alt="MySQL Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="Pytorch Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/ottomattas/devicon/master/icons/pytorch/pytorch.svg" alt="Pytorch Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/css3/css3-plain.svg" alt="CSS3 Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/ottomattas/devicon/master/icons/apple/apple-original-gray.svg" alt="Apple Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/devicon/devicon-original.svg" alt="Devicon Logo" width="50" height="50"/>
 
