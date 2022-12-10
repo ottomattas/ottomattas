@@ -51,7 +51,13 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 ![German (A2)](https://img.shields.io/static/v1?label=language&message=German%20%28A2%29&color=yellowgreen)
 ![Latin (A1)](https://img.shields.io/static/v1?label=language&message=Latin%20%28A1%29&color=green)
 
-2021 - Current 
+2022 - current
+- [AI & Robotics Estonia](https://aire-edih.eu) / Head of AI
+- Kickstarted an [EC](https://ec.europa.eu/info/index_en)-backed [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs) to enable knowledge transfer between academia and enteprises in Estonia.
+- Set up and led a 'test-before-invest' service to help scientists test and validate novel solutions in the private sector.
+- Raised awareness in the private sector about using deeptech solutions to solve daily issues in the industry.
+
+2021 - 2022
 - [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
 - Worked closely with the Open Science community to design and deliver relevant software for researchers across the globe.
 - Built a RIS file integration implementation and started the global movement to clarify the citation file formatting standards.
