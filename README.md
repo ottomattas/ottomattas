@@ -103,7 +103,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 ## Education
 
-2019 - 2022
+2019 - current
 - [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), Artificial Intelligence, MSc
 - Worked with many different people on many different projects using many different tools. For example, we won the third prize in the first ever [AI Eurovision Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html) in 2020.
 - Contritbuted to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
