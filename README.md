@@ -126,7 +126,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
-<img src="https://antonchirkov.ru/wp-content/uploads/2019/03/kisspng-ansible-devops-toolchain-software-deployment-trian-logo-beta-5b61fd61e474d6.9474899115331485139358-e1552844693154.png" alt="Ansible Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/ottomattas/devicon/icons/unix/unix-original.svg" alt="Unix Logo" width="50" height="50"/>
