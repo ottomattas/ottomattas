@@ -53,6 +53,9 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 2017 - current
 - [Artifig](https://artifig.com), Founder | Solutions Architect | Evangelist | Mentor
+- Developing a consulting business around innovation for enterprises and statups.
+- Designing and building technical solutions for clients based on their business needs.
+- Sharing my experience with the public to inspire and give courage for facing fears.
 
 2022 - 2023
 - [AI & Robotics Estonia](https://aire-edih.eu), Head of AI
