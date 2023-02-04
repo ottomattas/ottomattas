@@ -51,8 +51,11 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 ![German (A2)](https://img.shields.io/static/v1?label=language&message=German%20%28A2%29&color=yellowgreen)
 ![Latin (A1)](https://img.shields.io/static/v1?label=language&message=Latin%20%28A1%29&color=green)
 
-2022 - current
-- [AI & Robotics Estonia](https://aire-edih.eu) / Head of AI
+2017 - current
+- [Artifig](https://artifig.com), Founder | Solutions Architect | Evangelist | Mentor
+
+2022 - 2023
+- [AI & Robotics Estonia](https://aire-edih.eu), Head of AI
 - Kickstarted an [EC](https://ec.europa.eu/info/index_en)-backed [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs) to enable knowledge transfer between academia and enteprises in Estonia.
 - Set up and led a 'test-before-invest' service to help scientists test and validate novel solutions in the private sector.
 - Raised awareness in the private sector about using deeptech solutions to solve daily issues in the industry.
@@ -64,31 +67,31 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
 
 2020 - 2021
-- [toot.ai](https://toot-ai.github.io/toot.ai/), Founder & Developer
+- [toot.ai](https://toot-ai.github.io/toot.ai/), Founder | Developer
 - Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
 - Developed a knowledge representation and reasoning platform using mostly OWL, Neo4j, Python and NodeJS.
 - Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
 
 2020 - 2021
-- #fuelish, Founder & Developer & Designer
+- #fuelish, Founder | Developer | Designer
 - As a solo enterpreneur, came up with apparel designs to reach the global market using Photoshop.
 - Built an automated hands-off Shopify platform for generating passive income using Liquid.
 - Had fun with challenging people to be courageous.
 
 2017 - 2020
-- [Sentia](https://sentia.com), Innovator & Cloud Engineer
+- [Sentia](https://sentia.com), Innovator | Cloud Engineer
 - Worked closely together with many different clients to bring their classical infrastructure to the cloud.
 - Designed and developed highly available scalable solutions, mostly AWS and on-prem.
 - Encouraged company-wide liberation and started movements for innovating internal processes and technology.
 
 2015 - 2017
-- [Parliament of Estonia](https://www.riigikogu.ee/en/), Chief Specialist & Developer
+- [Parliament of Estonia](https://www.riigikogu.ee/en/), Chief Specialist | Developer
 - Worked together with the public and many governmental organisations to define the standard for Open Data APIs in Estonia.
 - Developed many tools and solutions for bringing Open Government initiatives forward within the Parliament of Estonia.
 - Focused on innovating internal processes using ITIL.
 
 2013 - 2017
-- Mousiq, Founder & Developer & Musician
+- Mousiq, Founder | Developer | Musician
 - Built a team and designed a new way of doing business in the music industry.
 - Developed a social platform to enable artists in taking back control over their creation.
 - Learned my first lessons from the business side of doing things and how investments work.
