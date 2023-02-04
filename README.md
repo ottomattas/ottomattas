@@ -114,6 +114,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Worked with many different people on many different projects using many different tools. For example, we won the third prize in the first ever [AI Eurovision Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html) in 2020.
 - Contritbuted to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
 - Contributed to improving the AI program for our students as a member of the [AI Education Advisory Committee (OAC AI)](https://students.uu.nl/en/science/artificial-intelligence/contact/education-advisory-committee).
+- Courses: Intelligent agents, Multi-agent systems, Multi-agent learning, Logics for safe AI, Advanced machine learning, Data mining, AI for game technology, Sound and music technology, Multimedia discourse interaction, ICT entrepreneurship, Philosophy of A.I., Primate Social Behaviour, Methods in AI research, Dilemmas of the scientist
 
 2010 - 2017
 - [Estonian IT College](https://taltech.ee/en/itcollege), IT Systems Administration, Diploma of Professional Higher Education
