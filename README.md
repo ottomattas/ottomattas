@@ -57,6 +57,18 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Designing and building technical solutions for clients based on their business needs.
 - Sharing my experience with the public to inspire and give courage for facing fears.
 
+2022 - current
+- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Artificial Intelligence Mentor | Software Architecture Mentor
+- Supporting startups and enterprises by sharing my experience for building complex software solutions.
+- Supporting startups and enterprises with business model validation.
+- Supporting early-stage startups in building successful teams.
+
+2022 - current
+- [Tartu Science Park](https://teaduspark.ee/en/), Artificial Intelligence Mentor
+- Supporting startups and enterprises by sharing my experience for building complex software solutions.
+- Supporting startups and enterprises with business model validation.
+- Supporting early-stage startups in building successful teams.
+
 2022 - 2023
 - [AI & Robotics Estonia](https://aire-edih.eu), Head of AI
 - Kickstarted an [EC](https://ec.europa.eu/info/index_en)-backed [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs) to enable knowledge transfer between academia and enteprises in Estonia.
