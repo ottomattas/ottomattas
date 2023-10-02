@@ -58,16 +58,22 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Sharing my experience with the public to inspire and give courage for facing fears.
 
 2022 - current
-- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Artificial Intelligence Mentor | Software Architecture Mentor
-- Supporting startups and enterprises by sharing my experience for building complex software solutions.
-- Supporting startups and enterprises with business model validation.
-- Supporting early-stage startups in building successful teams.
-
-2022 - current
 - [Tartu Science Park](https://teaduspark.ee/en/), Artificial Intelligence Mentor
 - Supporting startups and enterprises by sharing my experience for building complex software solutions.
 - Supporting startups and enterprises with business model validation.
 - Supporting early-stage startups in building successful teams.
+
+2023 - current
+- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Head of Artificial Intelligence
+- Spearhead the development and implementation of a forward-thinking AI strategy, fostering a culture of innovation and establishing Tehnopol as a hub of AI expertise in Estonia.
+- Engage with startups and enterprises, providing mentorship and guidance in leveraging AI technologies to solve complex business challenges and drive digital transformation.
+- Foster collaborative partnerships with academia and industry stakeholders to fuel AI research, knowledge transfer, and the commercialization of AI-driven solutions, bolstering the national AI ecosystem.
+
+2022 - 2023
+- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Artificial Intelligence Mentor | Software Architecture Mentor
+- Support startups and enterprises by sharing my experience for building complex software solutions.
+- Support startups and enterprises with business model validation.
+- Support early-stage startups in building successful teams.
 
 2022 - 2023
 - [AI & Robotics Estonia](https://aire-edih.eu), Head of AI
