@@ -2,7 +2,8 @@
 ![Random Header Image from Unsplash API](https://source.unsplash.com/1000x200/?humanity,technology,gaming,ai)
 # I have taken lead with hundreds and developed solutions for millions. Now, as a science-backed AI engineer, I am focusing on closing the gap between humanity and technology.
 
-- [What do I want?](#what-do-i-want)
+- [Biography](#biography)
+- [What Do I Want?](#what-do-i-want)
 - [Philosophy](#philosophy)
   - [About My Business](#about-my-business)
   - [About the Future](#about-the-future)
@@ -13,7 +14,10 @@
 
 ---
 
-## What do I want?
+## Biography
+Otto is a seasoned IT engineer and architect with 14 years of international experience. He has spent the last four years focused on artificial intelligence, including machine learning, expert systems, and human-computer interaction. Alongside developing technical solutions, Otto has a keen interest in processes and technology management, as well as ethics and legislation in the domain of artificial intelligence. He has a track record of creating value across a range of sectors, including private, public, and third sectors. Currently, Otto's aim is to showcase Estonian AI and robotics solutions on a global platform.
+
+## What Do I Want?
 - I want to create.
 - I want to develop intelligent technology.
 - I want to keep growing and learning while encouraging others to do the same.
@@ -119,7 +123,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 2013 - 2015
 - [Ekspress Grupp](https://www.egrupp.ee/en/), Site Reliability Engineer
-- Focused on the maintance and upkeep of web services for the largest media corporation in the Baltics.
+- Focused on the maintenance and upkeep of web services for the largest media corporation in the Baltics.
 - I did CCNA level networking for a combination of hardware from HP and Cisco.
 - As the person with the driver's license, I got to take the lead in the data centers.
 
@@ -130,7 +134,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 2019 - current
 - [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), Artificial Intelligence, MSc
 - Worked with many different people on many different projects using many different tools. For example, we won the third prize in the first ever [AI Eurovision Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html) in 2020.
-- Contritbuted to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
+- Contributed to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
 - Contributed to improving the AI program for our students as a member of the [AI Education Advisory Committee (OAC AI)](https://students.uu.nl/en/science/artificial-intelligence/contact/education-advisory-committee).
 - Courses: Advanced Machine learning, AI for Game Technology, Data Mining, Dilemmas of the Scientist, ICT Entrepreneurship, Intelligent Agents, Logics for Safe AI, Methods in AI Research, Multimedia Discourse Interaction, Multi-Agent Learning, Multi-Agent Systems, Philosophy of AI, Primate Social Behaviour, Sound and Music Technology
 
