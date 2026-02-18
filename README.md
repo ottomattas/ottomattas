@@ -77,15 +77,15 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - [Enterprise Estonia (EIS)](https://eas.ee/), Technical Expert
 - Expert evaluator for the Applied Research Program (RUP), assessing high-risk, high-reward deep tech R&D projects.
 
-2024 - current
-- Hakkab Looma, Technical Advisor
-- Supporting the core team with designing and implementing a strategy to learn the collective hopes and dreams of Estonians for a better tomorrow.
-
 2017 - current
 - [Artifig](https://artifig.com), Founder | Solutions Architect | Evangelist | Mentor
 - Developing an AI consulting business around innovation for enterprises and statups.
 - Designing and building AI technical solutions for clients based on their business needs.
 - Sharing my experience with the public to inspire and give courage for facing fears.
+
+2024 - 2025
+- Hakkab Looma, Technical Advisor
+- Supporting the core team with designing and implementing a strategy to learn the collective hopes and dreams of Estonians for a better tomorrow.
 
 2023 - 2024
 - [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Head of Artificial Intelligence
@@ -99,7 +99,7 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Set up and led a 'test-before-invest' service to help scientists test and validate novel solutions in the private sector.
 - *Note: Continuing as a Mentor (2022 - present) for deep-tech initiatives.*
 
-2019 - 2025
+2021 - 2025
 - [uku.ai](https://uku.ai), Founder
 - Helping companies and clients discover the power of logical reasoning and explainable AI.
 
@@ -115,16 +115,16 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 - Contributed to [ASReview](https://github.com/asreview/asreview), an Open Source project for helping researchers by automating the systematic review process, written mostly in Python and NodeJS.
 
 2020 - 2021
-- [toot.ai](https://toot-ai.github.io/toot.ai/), Founder | Developer
-- Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
-- Developed a knowledge representation and reasoning platform using mostly OWL, Neo4j, Python and NodeJS.
-- Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
-
-2020 - 2021
 - #fuelish, Founder | Developer | Designer
 - As a solo enterpreneur, came up with apparel designs to reach the global market using Photoshop.
 - Built an automated hands-off Shopify platform for generating passive income using Liquid.
 - Had fun with challenging people to be courageous.
+
+2019 - 2021
+- [toot.ai](https://toot-ai.github.io/toot.ai/), Founder | Developer
+- Built a team and designed an explainable AI assistant to handle knowledge in its current subjective context.
+- Developed a knowledge representation and reasoning platform using mostly OWL, Neo4j, Python and NodeJS.
+- Defined research questions to solve the problem of knowledge acquisition in novel scenarios.
 
 2017 - 2020
 - [Sentia](https://sentia.com), Innovator | Cloud Engineer
