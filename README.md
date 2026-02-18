@@ -1,5 +1,5 @@
 # where humanity meets technology
-![Random Header Image from Unsplash API](https://source.unsplash.com/1000x200/?humanity,technology,gaming,ai)
+![Header Image](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop)
 # I have taken lead with hundreds and developed solutions for millions. Now, as a science-backed AI engineer, I am focusing on closing the gap between humanity and technology.
 
 - [Biography](#biography)
