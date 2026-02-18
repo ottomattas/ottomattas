@@ -15,7 +15,9 @@
 ---
 
 ## Biography
-Otto is a seasoned IT engineer and architect with 14 years of international experience. He has spent the last four years focused on artificial intelligence, including machine learning, expert systems, and human-computer interaction. Alongside developing technical solutions, Otto has a keen interest in processes and technology management, as well as ethics and legislation in the domain of artificial intelligence. He has a track record of creating value across a range of sectors, including private, public, and third sectors. Currently, Otto's aim is to showcase Estonian AI and robotics solutions on a global platform.
+Otto is a seasoned IT engineer and architect with over 15 years of international experience. He has spent the last years focused on artificial intelligence, including machine learning, expert systems, and human-computer interaction. Alongside developing technical solutions, Otto has a keen interest in processes and technology management, as well as ethics and legislation in the domain of artificial intelligence.
+
+Currently, Otto operates at the intersection of academia, defense, and enterprise. He serves as a Technical Expert for **NATO DIANA**, a Researcher at the **Estonian Information System Authority (RIA)**, and is pursuing a **PhD at TalTech** focusing on application architectures for neuro-symbolic AI. His aim is to showcase Estonian AI and robotics solutions on a global platform.
 
 ## What Do I Want?
 - I want to create.
@@ -30,7 +32,7 @@ Notice, think, reinvent. Overcoming fear becomes possible through facing it, in 
 Here, have some magical courage to take your first step! ╰(｡^◇^｡)⊃—☆ﾟ.*･｡ﾟ
 
 ### About the Future
-As an avid Artificial Intelligence researcher at [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), I am investigating how to digitalize the thing we hold dearest - our humanity. Sounds scary? Good that you are here reading this. I am your best bet for preventing Skynet from taking over.
+As an avid Artificial Intelligence researcher at [TalTech](https://taltech.ee/en) and the [Estonian Information System Authority](https://www.ria.ee/en.html), I am investigating how to digitalize the thing we hold dearest - our humanity. Sounds scary? Good that you are here reading this. I am your best bet for preventing Skynet from taking over.
 
 On a more serious note, though. I think about thinking and how we express ourselves as humans. Furthermore, I ponder how a machine would express itself so that it becomes familiar to us. Let's separate the problem into roughly two:
 - gaining new knowledge about the ever-changing world around it in real-time;
@@ -55,35 +57,55 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 ![German (A2)](https://img.shields.io/static/v1?label=language&message=German%20%28A2%29&color=yellowgreen)
 ![Latin (A1)](https://img.shields.io/static/v1?label=language&message=Latin%20%28A1%29&color=green)
 
+2025 - current
+- [Riigi Infosüsteemi Amet (NCSC-EE)](https://www.ria.ee/en.html), Artificial Intelligence Researcher
+- Researching AI applications for national cybersecurity and digital infrastructure.
+- Focusing on secure AI adoption in the public sector and evaluating high-impact technological threats.
+
+2025 - current
+- [NATO DIANA](https://www.diana.nato.int/), Technical Expert
+- Serving as a technical evaluator and mentor for the Defence Innovation Accelerator for the North Atlantic.
+- Domain focus: Artificial Intelligence, Sensing & Surveillance, Critical Infrastructure, and Dual-Use technologies.
+
+2024 - current
+- [TalTech - Tallinn University of Technology](https://taltech.ee/en), Early Stage Researcher (PhD)
+- Researching application architectures for Neuro-symbolic AI Systems.
+- Investigating how to combine neural networks with symbolic logic to create explainable and reliable AI agents.
+
+2024 - current
+- [Enterprise Estonia (EIS)](https://eas.ee/), Technical Expert
+- Expert evaluator for the Applied Research Program (RUP), assessing high-risk, high-reward deep tech R&D projects.
+
+2024 - current
+- Hakkab Looma, Technical Advisor
+- Supporting the core team with designing and implementing a strategy to learn the collective hopes and dreams of Estonians for a better tomorrow.
+
 2017 - current
-- [Artifig](https://artifig.com), Founder | Solutions Architect | Evangelist | Mentor
+- [Artifig](https://artifig.com), Founder | Solutions Architect | Evangelist | Mentor
 - Developing an AI consulting business around innovation for enterprises and statups.
 - Designing and building AI technical solutions for clients based on their business needs.
 - Sharing my experience with the public to inspire and give courage for facing fears.
+
+2023 - 2024
+- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Head of Artificial Intelligence
+- Spearheaded the development and implementation of a forward-thinking AI strategy, fostering a culture of innovation and establishing Tehnopol as a hub of AI expertise in Estonia.
+- Engaged with startups and enterprises, providing mentorship and guidance in leveraging AI technologies to solve complex business challenges.
+- *Note: Continuing as a Mentor (2022 - present) for AI Accelerator and Ready2Scale programs.*
+
+2022 - 2024
+- [AI & Robotics Estonia (AIRE)](https://aire-edih.eu), Head of AI
+- Kickstarted an [EC](https://ec.europa.eu/info/index_en)-backed [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs) to enable knowledge transfer between academia and enteprises in Estonia.
+- Set up and led a 'test-before-invest' service to help scientists test and validate novel solutions in the private sector.
+- *Note: Continuing as a Mentor (2022 - present) for deep-tech initiatives.*
+
+2019 - 2025
+- [uku.ai](https://uku.ai), Founder
+- Helping companies and clients discover the power of logical reasoning and explainable AI.
 
 2022 - current
 - [Tartu Science Park](https://teaduspark.ee/en/), Artificial Intelligence Mentor
 - Supporting startups and enterprises by sharing my experience for building complex software solutions.
 - Supporting startups and enterprises with business model validation.
-- Supporting early-stage startups in building successful teams.
-
-2023 - current
-- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Head of Artificial Intelligence
-- Spearhead the development and implementation of a forward-thinking AI strategy, fostering a culture of innovation and establishing Tehnopol as a hub of AI expertise in Estonia.
-- Engage with startups and enterprises, providing mentorship and guidance in leveraging AI technologies to solve complex business challenges and drive digital transformation.
-- Foster collaborative partnerships with academia and industry stakeholders to fuel AI research, knowledge transfer, and the commercialization of AI-driven solutions, bolstering the national AI ecosystem.
-
-2022 - 2023
-- [Science and Business Park Tehnopol](https://www.tehnopol.ee/en/), Artificial Intelligence Mentor | Software Architecture Mentor
-- Support startups and enterprises by sharing my experience for building complex software solutions.
-- Support startups and enterprises with business model validation.
-- Support early-stage startups in building successful teams.
-
-2022 - 2023
-- [AI & Robotics Estonia](https://aire-edih.eu), Head of AI
-- Kickstarted an [EC](https://ec.europa.eu/info/index_en)-backed [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs) to enable knowledge transfer between academia and enteprises in Estonia.
-- Set up and led a 'test-before-invest' service to help scientists test and validate novel solutions in the private sector.
-- Raised awareness in the private sector about using deeptech solutions to solve daily issues in the industry.
 
 2021 - 2022
 - [Utrecht University](https://www.uu.nl/en) / [ASReview](https://asreview.nl), Research Engineer
@@ -131,7 +153,12 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 
 ## Education
 
-2019 - current
+2024 - current
+- [TalTech - Tallinn University of Technology](https://taltech.ee/en), PhD, Information Technology
+- **Topic:** Application Architectures for Neuro-Symbolic AI Systems.
+- Researching the integration of symbolic reasoning with machine learning for robust AI agents.
+
+2019 - 2024
 - [Utrecht University](https://www.uu.nl/masters/en/artificial-intelligence), Artificial Intelligence, MSc
 - Worked with many different people on many different projects using many different tools. For example, we won the third prize in the first ever [AI Eurovision Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html) in 2020.
 - Contributed to making the school life better as a member of [Student Consultation Board for Department of Information and Computing Sciences (SODI)](https://sodi.nl).
@@ -178,4 +205,3 @@ I am betting we can come up with a clear answer soon. Not only will we be able t
 ## Github Stats
 [![Otto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ottomattas&theme=dark&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottomattas&theme=dark&layout=compact&hide=html,css&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
